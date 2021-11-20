@@ -1,4 +1,4 @@
-module github.com/hirokuma/gogo-test2
+module github.com/hirokuma/gogo-test1/v2
 
 go 1.17
 
