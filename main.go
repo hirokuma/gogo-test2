@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hirokuma/gogo-test1/gogo"
+	"github.com/hirokuma/gogo-test2/gogo"
 )
 
 func main() {
