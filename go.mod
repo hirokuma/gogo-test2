@@ -1,3 +1,3 @@
-module github.com/hirokuma/gogo-test2
+module github.com/hirokuma/yoshio
 
 go 1.17
